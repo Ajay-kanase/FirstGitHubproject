@@ -9,6 +9,7 @@ public class ArithmeticOps {
 	}
 	public static int multiple(int a, int b)
 	{
+		//Done multiplication
 		int multi= a*b;
 		return multi;
 	}
