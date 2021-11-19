@@ -15,8 +15,10 @@ public class ArithmeticOps {
 	}
 	public static float divide(int x,int y) 
 	{
+		
 		float div=x/y;
 		return div;
+		//Done Division
 	}
 	
 	public static void main(String[] args) 
